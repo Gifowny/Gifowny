@@ -32,10 +32,9 @@ Here are some of my repositories that I'm proud of:
 - [GigaGym](https://github.com/LorenzoPinheiro/GigaGym) – Gym app done on my third semester  
 - [Projeto_Triagem](https://github.com/gabrieldsn2006/Analise-de-Imagens-Medicas-para-Triagem-de-Doencas-de-Pele) – DIP project based on medical skin cancer related image processing
 - [Galeria DA](https://github.com/gabrieldsn2006/Galeria-de-Arte) – Web based project done in assistance of my great friends 
+## 💬 Most Used Languages
 
-## 📊 GitHub Stats  
-<!-- You can include GitHub stats and streaks using shields or services like GitHub Readme Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gifowny&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gifowny&layout=compact&theme=default)
 
 ---
 

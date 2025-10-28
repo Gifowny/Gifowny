@@ -1,4 +1,4 @@
-# Hi there, I’m Gifowny 👋
+# Hi there, I’m Diogo 👋
 
 ## 🧑‍💻 About Me  
 - I’m studying Computer Science and diving deep into programming techniques—especially data structures and node-based implementations in Java.  
